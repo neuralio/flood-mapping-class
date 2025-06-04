@@ -1,0 +1,15 @@
+name: flood-mapping
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - earthengine-api
+  - geemap
+  - folium
+  - geopandas
+  - rasterio
+  - numpy
+  - pandas
+  - matplotlib
+  - jupyter
+  - ipykernel
